@@ -12,12 +12,20 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -40,6 +48,10 @@
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
