@@ -57,7 +57,6 @@
   <action id="QuickActionPopup">
     <keyboard-shortcut first-keystroke="meta alt enter" />
     <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="meta f8" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -69,6 +68,10 @@
   <action id="ServiceView.ShowServices" />
   <action id="SetShortcutAction">
     <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta f8" />
   </action>
   <action id="StepOver" />
   <action id="ToggleLineBreakpoint" />
