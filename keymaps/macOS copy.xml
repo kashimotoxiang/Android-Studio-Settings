@@ -9,6 +9,10 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
