@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'AnkiReader'" />
-    <option name="defaultScopeName" value="Project 'AnkiReader'" />
-    <option name="SEARCH_SCOPE" value="Project 'AnkiReader'" />
+    <option name="customScope" value="Project 'Anki-Android'" />
+    <option name="defaultScopeName" value="Project 'Anki-Android'" />
+    <option name="SEARCH_SCOPE" value="Project 'Anki-Android'" />
   </component>
 </application>
